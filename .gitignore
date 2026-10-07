@@ -1,0 +1,8 @@
+# 1010music's firmware is never committed here. Bring your own copy.
+firmware/*
+!firmware/README.md
+*.bin
+*.elf
+*.o
+out/
+__pycache__/
